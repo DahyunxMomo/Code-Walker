@@ -1,0 +1,15 @@
+C:\Users\thehi\Desktop\projects\getrequest\bin\Debug\net6.0\getrequest.exe
+C:\Users\thehi\Desktop\projects\getrequest\bin\Debug\net6.0\getrequest.deps.json
+C:\Users\thehi\Desktop\projects\getrequest\bin\Debug\net6.0\getrequest.runtimeconfig.json
+C:\Users\thehi\Desktop\projects\getrequest\bin\Debug\net6.0\getrequest.dll
+C:\Users\thehi\Desktop\projects\getrequest\bin\Debug\net6.0\getrequest.pdb
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.csproj.AssemblyReference.cache
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.AssemblyInfoInputs.cache
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.AssemblyInfo.cs
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.csproj.CoreCompileInputs.cache
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.dll
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\refint\getrequest.dll
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.pdb
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\getrequest.genruntimeconfig.cache
+C:\Users\thehi\Desktop\projects\getrequest\obj\Debug\net6.0\ref\getrequest.dll
